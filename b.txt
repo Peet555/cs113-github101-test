@@ -1,4 +1,4 @@
-#include<stdio.h> //no studio.h
+dota2 is dog game
 
 int cubeByValue(int n);
 
